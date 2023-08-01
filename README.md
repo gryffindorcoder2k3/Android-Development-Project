@@ -1,2 +1,2 @@
-# Android-Development-Project
-Online Shopping Android Application
+# Shopping-App
+Online Shopping Android Application, I created this as my Android Development Project.
